@@ -15,7 +15,7 @@ This Python script downloads audio from YouTube videos, converts it to text usin
 
     Install dependencies:
 
-    pip install pytube pydub vosk fpdf
+    pip install yt-dlp pydub vosk fpdf
 
     Download the Vosk model:
         Download the Vosk model from https://alphacephei.com/vosk/models and extract it into the project directory.
@@ -46,7 +46,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Notes:
 - Replace `yourusername` and `your-repository` with your actual GitHub username and repository name.
-- Ensure the dependencies (`pytube`, `pydub`, `vosk`, `fpdf`) are correctly installed and the Vosk model is downloaded and placed in the project directory before running the script.
+- Ensure the dependencies (`yt-dlp`, `pydub`, `vosk`, `fpdf`) are correctly installed and the Vosk model is downloaded and placed in the project directory before running the script.
 - Provide additional details as needed based on your project's specific requirements and functionalities.
 - download the vosk model from the vosk website and extract the model to path same as your script path.
 - you can change the path in the script.
