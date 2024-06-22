@@ -15,8 +15,6 @@ This Python script downloads audio from YouTube videos, converts it to text usin
 
     Install dependencies:
 
-    bash
-
     pip install pytube pydub vosk fpdf
 
     Download the Vosk model:
