@@ -52,4 +52,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Replace `yourusername` and `your-repository` with your actual GitHub username and repository name.
 - Ensure the dependencies (`pytube`, `pydub`, `vosk`, `fpdf`) are correctly installed and the Vosk model is downloaded and placed in the project directory before running the script.
 - Provide additional details as needed based on your project's specific requirements and functionalities.
+- download the vosk model from the vosk website and extract the model to path same as your script path.
+- you can change the path in the script.
 
