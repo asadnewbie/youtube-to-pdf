@@ -51,3 +51,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - download the vosk model from the vosk website and extract the model to path same as your script path.
 - you can change the path in the script.
 
+### keywods:
+
+- YouTube 
+- audio to text
+- Vosk speech recognition
+- Python script
+- audio transcription
+- PDF generation
+- YouTube downloader
+- speech-to-text conversion
+- open-source project
+- GitHub project
+- Python development, natural language processing, machine learning, audio processing
+-  text extraction, developer tools, software development, GitHub repository
+
