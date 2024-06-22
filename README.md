@@ -23,9 +23,7 @@ This Python script downloads audio from YouTube videos, converts it to text usin
 Usage
 
     Run the script:
-
-    bash
-
+    cd SCRIPT_DIRECTORY    => replace SCRIPT_DIRECTORY with where the script is located.
     python3 ytpdf.py
 
     Enter the YouTube video URL when prompted.
