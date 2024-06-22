@@ -28,7 +28,7 @@ Usage
 
     bash
 
-    python ytpdf.py
+    python3 ytpdf.py
 
     Enter the YouTube video URL when prompted.
 
